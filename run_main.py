@@ -19,7 +19,7 @@ def run_parallel(device_info):
     # print(device_info)
     # setattr(GetData, 'device_dict', device_info)
     pytest.main([f"--cmdopt={device_info}", "--alluredir", "Outputs/Reports/my_allure_re"])
-    os.system("allure generate Outputs/Reports/my_allure_re -o Outputs/Reports/html --clean")
+    # os.system("allure generate Outputs/Reports/my_allure_re -o Outputs/Reports/html --clean")
 
 
 if __name__ == "__main__":
