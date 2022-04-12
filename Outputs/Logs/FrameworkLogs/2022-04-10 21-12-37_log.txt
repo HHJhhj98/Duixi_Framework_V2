@@ -1,0 +1,666 @@
+2022-04-10 21:12:39,064-INFO-my_log.py-hhj-日志信息：====所有用例的前置操作：启动对戏APP(setUp)====
+2022-04-10 21:12:40,544-INFO-my_log.py-hhj-日志信息：{'platform_version': '7.1.1', 'server_port': 4723, 'system_port': 8200, 'device': 'e855dee1'}
+2022-04-10 21:12:40,544-INFO-my_log.py-hhj-日志信息：{'platform_version': '7.1.1', 'server_port': 4723, 'system_port': 8200, 'device': 'e855dee1'}
+2022-04-10 21:12:41,263-INFO-my_log.py-hhj-日志信息：{'platformName': 'Android', 'newCommonTimeout': 500, 'noReset': True, 'deviceName': 'e855dee1', 'platform_version': '7.1.1', 'appPackage': "'com.duixivideo.app'", 'appActivity': "'app.dupa.festival.MainActivity'", 'udid': 'e855dee1', 'systemPort': 8200, 'automationName': 'uiautomator2'}
+2022-04-10 21:12:41,263-INFO-my_log.py-hhj-日志信息：{'platformName': 'Android', 'newCommonTimeout': 500, 'noReset': True, 'deviceName': 'e855dee1', 'platform_version': '7.1.1', 'appPackage': "'com.duixivideo.app'", 'appActivity': "'app.dupa.festival.MainActivity'", 'udid': 'e855dee1', 'systemPort': 8200, 'automationName': 'uiautomator2'}
+2022-04-10 21:12:41,263-INFO-my_log.py-hhj-日志信息：{'platformName': 'Android', 'newCommonTimeout': 500, 'noReset': True, 'deviceName': 'e855dee1', 'platform_version': '7.1.1', 'appPackage': "'com.duixivideo.app'", 'appActivity': "'app.dupa.festival.MainActivity'", 'udid': 'e855dee1', 'systemPort': 8200, 'automationName': 'uiautomator2'}
+2022-04-10 21:13:06,330-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:06,330-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:06,330-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:06,330-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:09,337-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:09,337-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:09,337-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:09,337-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:09,337-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:09,554-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.212186毫秒
+2022-04-10 21:13:09,554-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.212186毫秒
+2022-04-10 21:13:09,554-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.212186毫秒
+2022-04-10 21:13:09,554-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.212186毫秒
+2022-04-10 21:13:09,554-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.212186毫秒
+2022-04-10 21:13:09,554-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.212186毫秒
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,557-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,632-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:09,794-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:10,499-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-09.png
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:11,212-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:12,787-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,792-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,913-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.114758毫秒
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,918-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:15,973-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,040-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:16,719-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-16.png
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:17,428-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:18,251-INFO-my_log.py-hhj-日志信息：****引导页_查看用户协议****
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,258-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,393-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.129657毫秒
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,396-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,444-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:21,490-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击('accessibility id', '《用户协议》')元素出错！！！
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,194-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看用户协议_2022-04-10 21-13-21.png
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:22,912-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:23,707-INFO-my_log.py-hhj-日志信息：****引导页_查看隐私政策****
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,711-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,818-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.102410毫秒
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,824-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:26,877-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:27,442-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击('accessibility id', '《隐私政策》')元素出错！！！
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,111-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V2\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-10 21-13-27.png
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:28,759-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====
+2022-04-10 21:13:29,564-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====

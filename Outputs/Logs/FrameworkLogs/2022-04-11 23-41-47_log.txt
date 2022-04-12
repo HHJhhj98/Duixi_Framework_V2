@@ -1,0 +1,3 @@
+2022-04-11 23:41:47,614-INFO-my_log.py-hhj-日志信息：开始卸载设备上应用：adb -s 127.0.0.1:62025 uninstall "com.duixivideo.app"
+2022-04-11 23:41:47,916-INFO-my_log.py-hhj-日志信息：开始卸载设备上应用：adb -s emulator-5554 uninstall "com.duixivideo.app"
+2022-04-11 23:41:47,916-INFO-my_log.py-hhj-日志信息：开始卸载设备上应用：adb -s emulator-5554 uninstall "com.duixivideo.app"

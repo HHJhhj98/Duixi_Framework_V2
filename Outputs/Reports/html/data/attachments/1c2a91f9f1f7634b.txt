@@ -1,0 +1,15 @@
+2022-04-12 00:03:31,154-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-12 00:03:32,177-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-12 00:03:32,239-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:00.054070毫秒
+2022-04-12 00:03:34,256-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-12 00:03:34,287-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-12 00:03:34,346-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-12 00:03:34,410-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.059025毫秒
+2022-04-12 00:03:34,443-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-12 00:03:34,447-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.028274毫秒
+2022-04-12 00:03:36,453-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-12 00:03:36,561-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-12 00:03:36,607-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-12 00:03:37,937-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:01.325314毫秒
+2022-04-12 00:03:37,964-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-12 00:03:37,969-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.022318毫秒

@@ -1,0 +1,6 @@
+platformName: Android
+deviceName: MI MAX 2
+platformVersion: 7.1
+appPackage: com.duixivideo.app
+appActivity: app.dupa.festival.MainActivity
+noReset: True

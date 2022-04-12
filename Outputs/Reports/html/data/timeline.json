@@ -1,0 +1,221 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-KL6VQQI",
+    "children" : [ {
+      "name" : "14300-MainThread",
+      "children" : [ {
+        "name" : "引导页_应用是如何工作的_点击_返回_点击：emulator-5554",
+        "uid" : "4d67b1ed574726d6",
+        "parentUid" : "a81ccf0ba95afd65a5e044adae108102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649693007578,
+          "stop" : 1649693015603,
+          "duration" : 8025
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "引导页_查看用户协议:emulator-5554",
+        "uid" : "2e06c974434af4a1",
+        "parentUid" : "a81ccf0ba95afd65a5e044adae108102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692988204,
+          "stop" : 1649692994756,
+          "duration" : 6552
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+      }, {
+        "name" : "引导页_查看用户协议_返回:emulator-5554",
+        "uid" : "ba8cb88948dfb67",
+        "parentUid" : "a81ccf0ba95afd65a5e044adae108102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692995056,
+          "stop" : 1649692996428,
+          "duration" : 1372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+      }, {
+        "name" : "首页上滑emulator-5554",
+        "uid" : "47b4b2deb89f5194",
+        "parentUid" : "a81ccf0ba95afd65a5e044adae108102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649693015755,
+          "stop" : 1649693019360,
+          "duration" : 3605
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "引导页_应用是如何工作的_点击:emulator-5554",
+        "uid" : "89c66d14642da49f",
+        "parentUid" : "a81ccf0ba95afd65a5e044adae108102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692999892,
+          "stop" : 1649693005708,
+          "duration" : 5816
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "引导页_同意_点击:emulator-5554",
+        "uid" : "3abcba114c6d80c9",
+        "parentUid" : "a81ccf0ba95afd65a5e044adae108102",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692996457,
+          "stop" : 1649692999844,
+          "duration" : 3387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a81ccf0ba95afd65a5e044adae108102"
+    }, {
+      "name" : "14892-MainThread",
+      "children" : [ {
+        "name" : "引导页_查看用户协议_返回:127.0.0.1:62025",
+        "uid" : "5f1a9bbbe6db8bc2",
+        "parentUid" : "34ce1943c4fddfe657eadac2b27ce4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692997444,
+          "stop" : 1649692998957,
+          "duration" : 1513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+      }, {
+        "name" : "引导页_应用是如何工作的_点击:127.0.0.1:62025",
+        "uid" : "1f28407237e3cb98",
+        "parentUid" : "34ce1943c4fddfe657eadac2b27ce4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649693003856,
+          "stop" : 1649693009429,
+          "duration" : 5573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "引导页_查看用户协议:127.0.0.1:62025",
+        "uid" : "4a418aac7f902941",
+        "parentUid" : "34ce1943c4fddfe657eadac2b27ce4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692990960,
+          "stop" : 1649692997268,
+          "duration" : 6308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+      }, {
+        "name" : "引导页_应用是如何工作的_点击_返回_点击：127.0.0.1:62025",
+        "uid" : "7dde4a9b233fadb3",
+        "parentUid" : "34ce1943c4fddfe657eadac2b27ce4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649693011153,
+          "stop" : 1649693017974,
+          "duration" : 6821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "引导页_同意_点击:127.0.0.1:62025",
+        "uid" : "666b051feb4604ff",
+        "parentUid" : "34ce1943c4fddfe657eadac2b27ce4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649692999069,
+          "stop" : 1649693002891,
+          "duration" : 3822
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "首页上滑127.0.0.1:62025",
+        "uid" : "4be5e3a701986c31",
+        "parentUid" : "34ce1943c4fddfe657eadac2b27ce4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649693019131,
+          "stop" : 1649693022413,
+          "duration" : 3282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "34ce1943c4fddfe657eadac2b27ce4d0"
+    } ],
+    "uid" : "b0a1159832a35441a746610a511fce02"
+  } ]
+}

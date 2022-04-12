@@ -1,0 +1,257 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "337_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_查看用户协议:emulator-5554",
+      "uid" : "2e06c974434af4a1",
+      "parentUid" : "5de87069fb38559a0cb21cfb571797b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692988204,
+        "stop" : 1649692994756,
+        "duration" : 6552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+    } ],
+    "uid" : "337_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "209_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_查看用户协议:127.0.0.1:62025",
+      "uid" : "4a418aac7f902941",
+      "parentUid" : "d73e76ed805a59b51ca6b4f78b708350",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692990960,
+        "stop" : 1649692997268,
+        "duration" : 6308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+    } ],
+    "uid" : "209_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "315_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_查看用户协议_返回:emulator-5554",
+      "uid" : "ba8cb88948dfb67",
+      "parentUid" : "b689e4350e12ad9f5a7a47a0302eebeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692995056,
+        "stop" : 1649692996428,
+        "duration" : 1372
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+    } ],
+    "uid" : "315_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "740_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_同意_点击:emulator-5554",
+      "uid" : "3abcba114c6d80c9",
+      "parentUid" : "82372b849f4a67b6bc0975d9386c4144",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692996457,
+        "stop" : 1649692999844,
+        "duration" : 3387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "740_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "471_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_查看用户协议_返回:127.0.0.1:62025",
+      "uid" : "5f1a9bbbe6db8bc2",
+      "parentUid" : "5c3e2f8d6dd6f4342a31dadec15d2832",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692997444,
+        "stop" : 1649692998957,
+        "duration" : 1513
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'click': '用户协议', 'check': '服务条款', 'title': '引导页_查看用户协议'}" ]
+    } ],
+    "uid" : "471_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "716_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_同意_点击:127.0.0.1:62025",
+      "uid" : "666b051feb4604ff",
+      "parentUid" : "78b51466449cca9418da9c870f4f14b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692999069,
+        "stop" : 1649693002891,
+        "duration" : 3822
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "716_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "242_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_应用是如何工作的_点击:emulator-5554",
+      "uid" : "89c66d14642da49f",
+      "parentUid" : "967344afede2209e447fa5020ad8e0e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649692999892,
+        "stop" : 1649693005708,
+        "duration" : 5816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "242_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "111_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_应用是如何工作的_点击:127.0.0.1:62025",
+      "uid" : "1f28407237e3cb98",
+      "parentUid" : "1e01d3486d8bdfaf7f6951a51914bea1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649693003856,
+        "stop" : 1649693009429,
+        "duration" : 5573
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "111_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "202_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_应用是如何工作的_点击_返回_点击：emulator-5554",
+      "uid" : "4d67b1ed574726d6",
+      "parentUid" : "f3a4694eee1cf18f9dd9bed4aaee947d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649693007578,
+        "stop" : 1649693015603,
+        "duration" : 8025
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "202_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "620_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "引导页_应用是如何工作的_点击_返回_点击：127.0.0.1:62025",
+      "uid" : "7dde4a9b233fadb3",
+      "parentUid" : "3ea963af0495685d6da152a39346d1e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649693011153,
+        "stop" : 1649693017974,
+        "duration" : 6821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "620_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "956_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "首页上滑emulator-5554",
+      "uid" : "47b4b2deb89f5194",
+      "parentUid" : "d23963bab8bd7e6a6ff206a88aea166a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649693015755,
+        "stop" : 1649693019360,
+        "duration" : 3605
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "956_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "498_TestCases.Test0Welcome.test_welcome",
+    "children" : [ {
+      "name" : "首页上滑127.0.0.1:62025",
+      "uid" : "4be5e3a701986c31",
+      "parentUid" : "3f30dff7f45c9af02c6d6d0c36efbce0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649693019131,
+        "stop" : 1649693022413,
+        "duration" : 3282
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "498_TestCases.Test0Welcome.test_welcome"
+  } ]
+}

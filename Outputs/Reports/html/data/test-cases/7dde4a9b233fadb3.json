@@ -1,0 +1,217 @@
+{
+  "uid" : "7dde4a9b233fadb3",
+  "name" : "引导页_应用是如何工作的_点击_返回_点击：127.0.0.1:62025",
+  "fullName" : "620_TestCases.Test0Welcome.test_welcome.Test0Welcome#test_welcome_4_show_app_work_back",
+  "historyId" : "1c0bef218bbdf563d1320e53224669f5",
+  "time" : {
+    "start" : 1649693011153,
+    "stop" : 1649693017974,
+    "duration" : 6821
+  },
+  "description" : "引导页_应用是如何工作的_点击_返回_点击",
+  "descriptionHtml" : "<p>引导页_应用是如何工作的_点击_返回_点击</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1649692956019,
+      "stop" : 1649692956020,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "引导页_应用是如何工作的_点击_返回_点击",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "step：等待应用是如何工作的按钮可见",
+      "time" : {
+        "start" : 1649693012163,
+        "stop" : 1649693012243,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step：点击应用是如何工作的按钮",
+      "time" : {
+        "start" : 1649693012243,
+        "stop" : 1649693014346,
+        "duration" : 2103
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step：等待返回按钮可见",
+      "time" : {
+        "start" : 1649693014346,
+        "stop" : 1649693014452,
+        "duration" : 106
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step：点击返回按钮",
+      "time" : {
+        "start" : 1649693014452,
+        "stop" : 1649693016606,
+        "duration" : 2154
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "step：断言马上开始按钮是否存在？",
+      "time" : {
+        "start" : 1649693016607,
+        "stop" : 1649693017973,
+        "duration" : 1366
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "step：等待马上开始按钮可见",
+        "time" : {
+          "start" : 1649693016607,
+          "stop" : 1649693017941,
+          "duration" : 1334
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "step：返回马上开始是否可见",
+        "time" : {
+          "start" : 1649693017941,
+          "stop" : 1649693017973,
+          "duration" : 32
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 2,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ef0f020d3182e99c",
+      "name" : "log",
+      "source" : "ef0f020d3182e99c.txt",
+      "type" : "text/plain",
+      "size" : 1869
+    }, {
+      "uid" : "1c2a91f9f1f7634b",
+      "name" : "stderr",
+      "source" : "1c2a91f9f1f7634b.txt",
+      "type" : "text/plain",
+      "size" : 2350
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 7,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "引导页"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "引导页_应用是如何工作的_点击_返回_点击"
+  }, {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "620_TestCases.Test0Welcome"
+  }, {
+    "name" : "suite",
+    "value" : "test_welcome"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test0Welcome"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KL6VQQI"
+  }, {
+    "name" : "thread",
+    "value" : "14892-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "620_TestCases.Test0Welcome.test_welcome"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "smoke" ]
+  },
+  "source" : "7dde4a9b233fadb3.json",
+  "parameterValues" : [ ]
+}

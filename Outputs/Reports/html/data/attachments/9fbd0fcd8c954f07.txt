@@ -1,0 +1,17 @@
+INFO     hhj:my_log.py:39 ====所有用例的前置操作：启动对戏APP(setUp)====
+INFO     hhj:my_log.py:39 {'platform_version': '7.1.2', 'server_port': 4725, 'system_port': 8201, 'device': 'emulator-5554'}
+INFO     hhj:my_log.py:39 {'platformName': 'Android', 'newCommonTimeout': 500, 'noReset': True, 'deviceName': 'emulator-5554', 'platform_version': '7.1.2', 'app': 'D:\\JetBrains\\PyCharm\\PycharmProjects\\Duixi_Framework_V2\\app\\duixi_1.4.0_20220311_1440_test_Release_signed.apk', 'appPackage': "'com.duixivideo.app'", 'appActivity': "'app.dupa.festival.MainActivity'", 'udid': 'emulator-5554', 'systemPort': 8201}
+WARNING  urllib3.connectionpool:connectionpool.py:780 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EFFABFE700>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+INFO     hhj:my_log.py:39 ****引导页_查看用户协议****
+INFO     hhj:my_log.py:39 引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+INFO     hhj:my_log.py:39 ('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.083330毫秒
+INFO     hhj:my_log.py:39 引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+INFO     hhj:my_log.py:39 引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+INFO     hhj:my_log.py:39 引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+INFO     hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.082336毫秒
+INFO     hhj:my_log.py:39 引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+INFO     hhj:my_log.py:39 在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+INFO     hhj:my_log.py:39 引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+INFO     hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.075888毫秒
+INFO     hhj:my_log.py:39 引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+INFO     hhj:my_log.py:39 引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
