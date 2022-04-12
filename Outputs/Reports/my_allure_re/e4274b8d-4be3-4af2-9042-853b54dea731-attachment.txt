@@ -1,8 +1,0 @@
-INFO     hhj:my_log.py:39 ****引导页_同意_点击_马上开始_点击****
-INFO     hhj:my_log.py:39 引导页_马上开始按钮_点击等待元素('accessibility id', '马上开始 ')可见
-INFO     hhj:my_log.py:39 ('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.084321毫秒
-INFO     hhj:my_log.py:39 引导页_马上开始按钮_点击查找元素：('accessibility id', '马上开始 ')
-INFO     hhj:my_log.py:39 引导页_马上开始按钮_点击_点击元素：('accessibility id', '马上开始 ')
-INFO     hhj:my_log.py:39 首页_判断是否在首页_等待元素('accessibility id', '热门搜索')存在
-INFO     hhj:my_log.py:39 等待结束，等待时长为：0:00:02.087171毫秒
-INFO     hhj:my_log.py:39 ====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====

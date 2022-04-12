@@ -1,3 +1,0 @@
-INFO     hhj:my_log.py:39 ****引导页_查看用户协议****
-INFO     hhj:my_log.py:39 引导页_判断隐私保护政策是否存在_等待元素('accessibility id', '隐私保护政策')存在
-INFO     hhj:my_log.py:39 等待结束，等待时长为：0:00:00.504929毫秒
