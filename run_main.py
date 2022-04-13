@@ -20,7 +20,7 @@ def run_parallel(device_info):
     # setattr(GetData, 'device_dict', device_info)
     pytest.main([f"--cmdopt={device_info}", "--alluredir", "Outputs/Reports/my_allure_re"])
     os.system("allure generate Outputs/Reports/my_allure_re -o Outputs/Reports/html --clean")
-
+#hhj
 
 if __name__ == "__main__":
     device_lists = get_device_infos()
