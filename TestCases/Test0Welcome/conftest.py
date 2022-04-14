@@ -38,44 +38,42 @@ def start_function_App(cmdopt):
     my_log.info("====每条用例的前置操作：启动对戏APP(setUpClass)====")
     # cmdopt = device_dict
     # cmdopt = getattr(GetData, 'device_dict')
-    my_log.info(eval(cmdopt))
-    global driver
-    driver = base_driver = BaseDriver(eval(cmdopt))
-    driver = base_driver.base_driver()
-    wel = WelcomePage(driver)
-    yield (driver, wel)  # 分割线，返回值
+    yield  # 分割线，返回值
     # 后置操作
-    my_log.info("====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====")
-    driver.close_app()
-    driver.quit()
+    my_log.info("====每条用例的后置操作：关闭对戏APP，重置APP缓存，清理环境(teardownClass)====")
+    # driver.close_app()
+    # sleep(2)
+    driver.reset()
+    sleep(3)
+    # driver.launch_app()
 
 
-@pytest.fixture(scope='function')
-def start_function_App_and_launcher_name(cmdopt):
-    # 准备服务器参数，与appium server进行连接。noReset=False
-    # 1、要不要判断欢迎界面是否存在?
-    # 2、要不要判断当前用户是否已登录？
-    # pass
-    # 前置操作
-    my_log.info("****开始获取系统Launcher名称****")
-    # cmdopt = {'platform_version': '7.1.2', 'server_port': 4724, 'system_port': 8200, 'device': '127.0.0.1:62025'}
-    # cmdopt = getattr(GetData, 'device_dict')
-    my_log.info(eval(cmdopt))
-    cmd = eval(cmdopt)
-    device_id = cmd['device']
-    android_version = cmd['platform_version']
-    launcher_name = get_android_launcher_activity(device_id, android_version)
-    my_log.info("****系统Launcher名称为{}****".format(launcher_name))
-    my_log.info("====每条用例的前置操作：启动对戏APP(setUpClass)====")
-    global driver
-    base_driver = BaseDriver(cmdopt)
-    driver = base_driver.base_driver()
-    wel = WelcomePage(driver)
-    yield (driver, launcher_name, wel)  # 分割线，返回值
-    # 后置操作
-    my_log.info("====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====")
-    driver.close_app()
-    driver.quit()
+# @pytest.fixture(scope='function')
+# def start_function_App_and_launcher_name(cmdopt):
+#     # 准备服务器参数，与appium server进行连接。noReset=False
+#     # 1、要不要判断欢迎界面是否存在?
+#     # 2、要不要判断当前用户是否已登录？
+#     # pass
+#     # 前置操作
+#     my_log.info("****开始获取系统Launcher名称****")
+#     # cmdopt = {'platform_version': '7.1.2', 'server_port': 4724, 'system_port': 8200, 'device': '127.0.0.1:62025'}
+#     # cmdopt = getattr(GetData, 'device_dict')
+#     my_log.info(eval(cmdopt))
+#     cmd = eval(cmdopt)
+#     device_id = cmd['device']
+#     android_version = cmd['platform_version']
+#     launcher_name = get_android_launcher_activity(device_id, android_version)
+#     my_log.info("****系统Launcher名称为{}****".format(launcher_name))
+#     my_log.info("====每条用例的前置操作：启动对戏APP(setUpClass)====")
+#     global driver
+#     base_driver = BaseDriver(cmdopt)
+#     driver = base_driver.base_driver()
+#     wel = WelcomePage(driver)
+#     yield (driver, launcher_name, wel)  # 分割线，返回值
+#     # 后置操作
+#     my_log.info("====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====")
+#     driver.close_app()
+#     driver.quit()
 
 
 # 定义公共的fixture

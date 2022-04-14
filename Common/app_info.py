@@ -45,7 +45,7 @@ def get_app_launchable_activity() -> str:
     cmd = "aapt dump badging {} | findstr launchable".format(os.path.join(app_path, get_app_name(app_path)))
     result = exec_cmd(cmd)
     if "launchable" in result:
-        launchable_activity = result.strip().split(" ")[2].split('=')[1].replace("label", '')
+        launchable_activity = result.strip().split(" ")[1].split('=')[1].replace("label", '')
         return launchable_activity
     else:
         raise NameError("未获取到launchable activity。")

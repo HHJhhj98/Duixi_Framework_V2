@@ -10,27 +10,34 @@ from Common.project_path import *
 
 class MyLog:
     def my_log(self, msg, level):
+
         # 定义一个日志收集器
         my_logger = logging.getLogger('hhj')
 
         # 设置级别
         my_logger.setLevel('DEBUG')
 
-        # 设置输出格式
-        formatter = logging.Formatter('%(asctime)s-%(levelname)s-%(filename)s-%(name)s-日志信息：%(message)s')
+        # 判断当前日志对象中是否有处理器，如果没有，则添加处理器
+        if not my_logger.handlers:
+            # 设置输出格式
+            formatter = logging.Formatter('%(asctime)s-%(levelname)s-%(filename)s-%(name)s-日志信息：%(message)s')
 
-        # 创建一个输出渠道
-        ch = logging.StreamHandler()
-        ch.setLevel('DEBUG')
-        ch.setFormatter(formatter)
-        # 日志输出路径
-        fh = logging.FileHandler(test_log_path, encoding='utf-8')
-        fh.setLevel('DEBUG')
-        fh.setFormatter(formatter)
+            # 创建一个输出渠道
+            ch = logging.StreamHandler()
+            ch.setLevel('DEBUG')
+            ch.setFormatter(formatter)
+            # 日志输出路径
+            fh = logging.FileHandler(test_log_path, encoding='utf-8')
+            fh.setLevel('DEBUG')
+            fh.setFormatter(formatter)
 
-        # 两者对接
-        my_logger.addHandler(ch)
-        my_logger.addHandler(fh)
+            # 两者对接
+            my_logger.addHandler(ch)
+            my_logger.addHandler(fh)
+
+            # # 关闭渠道
+            # my_logger.removeHandler(ch)
+            # my_logger.removeFilter(fh)
 
         # 收集日志
         if level == 'DEBUG':
@@ -46,9 +53,7 @@ class MyLog:
         elif level == 'EXCEPTION':
             my_logger.exception(msg)
 
-        # 关闭渠道
-        my_logger.removeHandler(ch)
-        my_logger.removeFilter(fh)
+
 
     def debug(self, msg):
         self.my_log(msg, 'DEBUG')
